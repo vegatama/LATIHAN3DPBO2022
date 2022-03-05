@@ -1,5 +1,6 @@
 # LATIHAN3DPBO2022
 Latihan DPBO ke-3
+janji : Saya Vegatama Firdiady mengerjakan Latihan 3 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 program ini mengadaptasi OOP composition dengan class Pc menyimpan class Processor, Disk, dan Ram. atribut di dalam class semua berbentuk string bertipe private yang bisa diakses dengan setter dan getter atau constructor.
 
